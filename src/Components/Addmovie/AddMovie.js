@@ -93,13 +93,13 @@ const AddMovie = ({ addMovie }) => {
           
 
           
-          <Button className="add"
+          <button className="add"
             variant="primary"
             type="submit"
             onClick={(e) => submitMovie(e)}
           >
             Add
-          </Button>
+          </button>
         </Form>
        
       </Modal>

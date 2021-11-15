@@ -89,3 +89,19 @@
 .card .details .center ul li a:hover {
     background: #ff3636;
 }
+.go {
+    
+        border-radius: 100px;
+        border: 2px solid white;
+        background-color: #212529;
+        color: white;
+        padding: 3px 10px;
+      }
+
+      .go:hover {
+        color: #212529;
+        background-color: white;
+      }
+.stars{
+    margin-left: 30px;
+}
